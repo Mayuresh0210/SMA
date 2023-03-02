@@ -1,4 +1,4 @@
-import "./rightbar.scss"
+import "./rightbar.scss";
 
 const Rightbar = () => {
     return (
@@ -103,4 +103,4 @@ const Rightbar = () => {
         
     );
 };
-export default Rightbar
+export default Rightbar;
